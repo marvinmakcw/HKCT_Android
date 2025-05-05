@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MM Burger</string>
+    <string-array name="burger">
+        <item>*SET 1* HAMBURGER $15.5</item>
+        <item>*SET 2* CHEESEBURGER $17.5</item>
+        <item>*SET 3* WHOPPER JR $20.0</item>
+        <item>*SET 4* BACON DOUBLE CHEESEBURGER $23.5</item>
+        <item>*SET 5* LONG PEPPERONI $25.0</item>
+    </string-array>
+</resources>
